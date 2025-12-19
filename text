@@ -1,0 +1,3 @@
+gcc todo.c -o todo \
+    -lglfw -lleif -lclipboard -lxcb \
+    -lGL -lm -ldl -lpthread
