@@ -24,7 +24,7 @@ todo --help
 
 On Linux:
 ```console
-git clone https://github.com/cococry/todo
+git clone https://github.com/neeraj901520/todo
 cd todo
 ./setup.sh
 ```
